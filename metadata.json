@@ -1,0 +1,6 @@
+{
+  "name": "ASF Prépa Faso - Administrateur des Services Financiers",
+  "description": "Plateforme intelligente de préparation au concours d'Administrateur des Services Financiers au Burkina Faso : analyse documentaire IA, QCM sourcés, examens blancs et coaching personnalisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
